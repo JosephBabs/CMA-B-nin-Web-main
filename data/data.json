@@ -1,0 +1,879 @@
+{
+  "logo": {
+    "dark": "/resources/logo-3.png",
+    "light": "/resources/logo-1.png",
+    "lightColored": "/resources/logo-2.png"
+  },
+  "apiUrl": {
+    "link": "https://app.cmabenin.bj/api/"
+  },
+  "postImg": {
+    "link": "https://app.cmabenin.bj/web/public/storage/"
+  },
+  "navMenus": [
+    {
+      "name": "Accueil",
+      "url": "/"
+    },
+
+    {
+      "name": "Présentation",
+      "url": "/presentation",
+      "subItems": [
+        {
+          "name": "Mot du Président",
+          "url": "/presentation#motdupresident"
+        }, 
+        {
+          "name": "Assemblée Consulaire",
+          "url": "/presentation#assemblee-consulaire"
+        },
+        {
+          "name": "Bureau Consulaire",
+          "url": "/presentation#bureau-consulaire"
+        },
+        {
+          "name": "Commissions Techniques permantentes",
+          "url": "/presentation#coms-technique"
+        },
+        {
+          "name": "Secrétariat Général",
+          "url": "/presentation#s-general"
+        },
+        {
+          "name": "Missions et Attributions",
+          "url": "/presentation#mission"
+        }
+      ]
+    },
+    {
+      "name": "Documents",
+      "url": "/documents",
+      "subItems": [
+        {
+          "name": "Liste des Sites de Composition CQM Avril 2024",
+          "url": "/documents#listeSitesComposition"
+        },
+        {
+          "name": "Loi, Décrets et Arrêtés",
+          "url": "/documents#doc-d-c"
+        },
+        {
+          "name": "Nomenclature des métiers de l'artisanat au Bénin",
+          "url": "/documents#doc-nmab"
+        },
+        {
+          "name": "Code de l'UEMOA",
+          "url": "/documents#code-uemua"
+        }
+      ]
+    },
+
+    {
+      "name": "Services",
+      "url": "/services",
+      "subItems": [
+        {
+          "name": "Régistre des métiers artisanaux",
+          "url": "/services#doc-rma"
+        },
+        {
+          "name": "Délivrance des cartes professionnelles d'artisans",
+          "url": "/services#doc-dcpa"
+        }
+      ]
+    },
+    {
+      "name": "Communiqués",
+      "url": "/communiques_g"
+    },
+    {
+      "name": "Médiatèque",
+      "url": "/mediateque",
+      "subItems": [
+        {
+          "name": "Galerie",
+          "url": "https://www.flickr.com/photos/200349370@N07/albums"
+        },
+        {
+          "name": "Vidéo",
+          "url": "https://www.youtube.com/channel/UClo75vT6y9E7NcIiIcBKPQA"
+        }
+      ]
+    },
+    {
+      "name": "Contacts",
+      "url": "/contact"
+    }
+  ],
+  "sliderOne": [
+    {
+      "image": "/backgrounds/main-slider-2-2.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "L'institution consulaire au service </br> des artisans du Bénin",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    },
+    {
+      "image": "/backgrounds/main-slider-1-2.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "Vers un artisanat moderne et </br>compétitif",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    },
+    {
+      "image": "/backgrounds/main-slider-2-3.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "Ensemble pour la promotion de</br> l'artisanat du Bénin",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    }
+  ],
+  "sliderTwo": [
+    {
+      "image": "/backgrounds/main-slider-2-2.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "L'institution consulaire au service </br> des artisans du Bénin",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    },
+    {
+      "image": "/backgrounds/main-slider-1-2.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "Vers un artisanat moderne et </br>compétitif",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    },
+    {
+      "image": "/backgrounds/main-slider-2-3.jpg",
+      "subtitle": "CMA-BENIN",
+      "title": "Ensemble pour la promotion de</br> l'artisanat du Bénin",
+      "buttonLabel": "En savoir plus",
+      "buttonUrl": "/presentation"
+    }
+  ],
+  "sliderThree": [
+    {
+      "image": "/backgrounds/main-slider-3-1.jpg",
+      "subtitle": "Helping Them Today",
+      "title": "Help the Poor <br> in Need",
+      "buttonLabel": "Learn More",
+      "buttonUrl": "/about"
+    },
+    {
+      "image": "/backgrounds/main-slider-3-2.png",
+      "subtitle": "Helping Them Today",
+      "title": "Help the Poor <br> in Need",
+      "buttonLabel": "Learn More",
+      "buttonUrl": "/about"
+    }
+  ],
+
+  "sliderOneCounter": [
+    {
+      "count": 4390,
+      "text": "Volunteers are Available"
+    },
+    {
+      "count": 8900,
+      "text": "Funds Raised by People"
+    }
+  ],
+  "callToAction": {
+    "floatedText": "CMA-BENIN",
+    "title": "Au service des Artisans",
+    "button": {
+      "label": "En savoir plus",
+      "url": "/contact"
+    }
+  },
+  "news": [
+    {
+      "title": "Donation is Hope for Poor Childrens in",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-1.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    },
+    {
+      "title": "How Malnutrition Affect Children?",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-2.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Capitalize on low hanging to identify",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-3.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Override the digital divide with additional",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-4.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    },
+    {
+      "title": "Nanotechnology immersion along the",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-5.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    },
+    {
+      "title": "User generate in have multi time",
+      "author": "Admin",
+      "commentCount": "2",
+      "date": "20 Jan, 2021",
+      "thumbnail": "/blog/news-page-img-6.jpg",
+      "excerpt": "There are many variations of but the majority have simply free text available not suffered.",
+      "url": "/news-details"
+    }
+  ],
+  "events": [
+    {
+      "thumbnail": "/resources/events-page-img-1.jpg",
+      "title": "Play for the world <br> with us",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    },
+    {
+      "thumbnail": "/resources/events-page-img-2.jpg",
+      "title": "Mission for Fresh <br> &amp; Clean Water",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    },
+    {
+      "thumbnail": "/resources/events-page-img-3.jpg",
+      "title": "Education for <br> poor children",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    },
+    {
+      "thumbnail": "/resources/events-page-img-4.jpg",
+      "title": "Rights for <br> street childrens",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    },
+    {
+      "thumbnail": "/resources/events-page-img-5.jpg",
+      "title": "Help for <br> needy people",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    },
+    {
+      "thumbnail": "/resources/events-page-img-6.jpg",
+      "title": "Donation day <br> for people",
+      "time": "8:00 pm",
+      "date": "20 <br> Jan",
+      "url": "/events-details"
+    }
+  ],
+  "causes": [
+    {
+      "thumbnail": "/resources/causes-page-img-1.jpg",
+      "title": "Raise Fund for Clean & Healthy Water",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "21,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    },
+    {
+      "thumbnail": "/resources/causes-page-img-2.jpg",
+      "title": "Our donation is hope for poor childrens",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "15,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    },
+    {
+      "thumbnail": "/resources/causes-page-img-3.jpg",
+      "title": "Education for Poor Children",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "11,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    },
+    {
+      "thumbnail": "/resources/causes-page-img-4.jpg",
+      "title": "Promoting The Rights of Children",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "19,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    },
+    {
+      "thumbnail": "/resources/causes-page-img-5.jpg",
+      "title": "Fundrising for Early Childhood Rise",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "22,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    },
+    {
+      "thumbnail": "/resources/causes-page-img-6.jpg",
+      "title": "School Counseling for Children",
+      "category": "Medical",
+      "excerpt": "There are not many of passages of lorem ipsum avail isn alteration donationa in form simply free.",
+      "amount": {
+        "raised": "23,270",
+        "goal": "30,000"
+      },
+      "url": "/causes-details"
+    }
+  ],
+  "fourFam": [
+    {
+      "thumbnail": "/team/alim.png",
+      "title": "",
+      "designation": "L'Alimentation",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/bati.png",
+      "title": "",
+      "designation": "Le Bâtiment",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    
+    {
+      "thumbnail": "/team/const.png",
+      "title": "",
+      "designation": "Métaux et constructions métalliques, mécanique, électromécanique, électronique, électricité et petits activités de transport",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/bolmeuble.png",
+      "title": "",
+      "designation": "Bois et assimilés, mobilier et ameublement",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/textile.png",
+      "title": "",
+      "designation": "Textile, habillement, cuir et peau",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/comm.png",
+      "title": "",
+      "designation": "Audiovisuel et communication",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/hygiene.png",
+      "title": "",
+      "designation": "Hygiène et soins corporels",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/deco.png",
+      "title": "",
+      "designation": "Artisanat d'art et décoration",
+      "excerpt": "",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        }
+      ]
+    }
+  ],
+  "volunteers": [
+    {
+      "thumbnail": "/team/team-page-img-1.jpg",
+      "title": "",
+      "designation": "L'assemblée consulaire",
+      "excerpt": "  (80 membres)",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-facebook-square",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/team-page-img-2.jpg",
+      "title": "",
+      "designation": "Le bureau ",
+      "excerpt": " (05 Membres )",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-facebook-square",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/team-page-img-3.jpg",
+      "title": "",
+      "designation": "Les commissions techniques",
+      "excerpt": " (05 Commissions)",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-facebook-square",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/team-page-img-4.jpg",
+      "title": "",
+      "designation": "Les délégations départementales",
+      "excerpt": " ( 12 délégations)",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-facebook-square",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "thumbnail": "/team/team-page-img-5.jpg",
+      "title": "",
+      "designation": "Le secrétariat général",
+      "excerpt": " ( Secrétaire Général)",
+      "social": [
+        {
+          "icon": "fab fa-twitter",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-facebook-square",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-dribbble",
+          "url": "#"
+        },
+        {
+          "icon": "fab fa-instagram",
+          "url": "#"
+        }
+      ]
+    }
+    
+  ],
+  "gallery": [
+    {
+      "thumbnail": "https://cmab.artfric.com/storage/1/about-page-img-1.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-2.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-3.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-4.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-5.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-6.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-7.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-8.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    },
+    {
+      "thumbnail": "/gallery/gallery-page-img-9.jpg",
+      "title": "Child Education",
+      "category": "Charity"
+    }
+  ],
+  "sponsors": [
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    },
+    {
+      "thumbnail": "/resources/brand-1-3.png",
+      "url": "#"
+    }
+  ],
+  "testimonials": [
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-2.png",
+      "excerpt": "1. Assurer la défense et le plaidoyer des positions du secteur de l'artisanat auprès des instances publiques ;",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-1.png",
+      "excerpt": "2. Assister et conseiller les artisans au niveau économique, technologique , juridique ;<br>",
+      "name": "Kevin Martin",
+      "designation": "Volunteer"
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-1.png",
+      "excerpt": "3. Organiser le renforcement des capacités des artisans, la reconnaissance et l'organisation des qualifications et Certifications dans l'artisanat.",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "4. Organiser, moderniser l'apprentissage et certifier les qualifications.<br>",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "5. Faciliter l'accès aux services de protection sociale, de santé des artisans et leur famille.",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "6. Assurer la gestion du registre national biométrique des artisans<br><br><br>",
+      "name": "",
+      "designation": ""
+    },
+    {
+      "thumbnail": "/testimonial/testimonial-2-img-3.png",
+      "excerpt": "7. Accompagner les organisations professionnelles d'artisans et favoriser la promotion de l'artisanat béninois..",
+      "name": "",
+      "designation": ""
+    }
+  ],
+  "features": [
+    {
+      "title": "Inscription",
+      "text": "Être inscrit au registre des \n métiers de l'artisanat   <br><br> ",
+      "icon": "",
+      "url": "/causes-details",
+      "buttonLabel": ""
+    },
+    {
+      "title": "Carte professionnelle",
+      "text": "Être détenteur de la \n carte professionnelle  <br><br><br>",
+      "icon": "",
+      "url": "/causes-details",
+      "buttonLabel": ""
+    },
+    {
+      "title": "Etabli sur territoire",
+      "text": "Être établi sur le territoire béninois et y développer de façon effective \n ses activités artisanales.    ",
+      "icon": "",
+      "url": "/causes-details",
+      "buttonLabel": ""
+    }
+  ],
+  "featuresTwo": [
+    {
+      "title": "Become a Volunteer",
+      "text": "Lorem ium dolor sit ametad pisicing elit sed do ut.",
+      "icon": "icon-heart"
+    },
+    {
+      "title": "Quick Fundraise",
+      "text": "Lorem ium dolor sit ametad pisicing elit sed do ut.",
+      "icon": "icon-adoption"
+    },
+    {
+      "title": "Donate Now",
+      "text": "Lorem ium dolor sit ametad pisicing elit sed do ut.",
+      "icon": "icon-donation-1"
+    }
+  ],
+  "videoFeatures": [
+    {
+      "title": "Become a Volunteer",
+      "text": "There are many variations of but the majority have simply free text suffered.",
+      "icon": "icon-charity"
+    },
+    {
+      "title": "Quick Fundraising",
+      "text": "There are many variations of but the majority have simply free text suffered.",
+      "icon": "icon-generous"
+    },
+    {
+      "title": "Start Donating",
+      "text": "There are many variations of but the majority have simply free text suffered.",
+      "icon": "icon-fundraiser"
+    }
+  ],
+  "galleryTwo": [
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-1.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-2.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-3.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-4.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-5.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-1.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-2.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-3.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-4.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-5.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-1.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-2.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-3.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-4.jpg"
+    },
+    {
+      "title": "Child Education",
+      "text": "Charity",
+      "image": "/gallery/gallery-1-5.jpg"
+    }
+  ],
+  "blogHome": {
+    "sectionTitle": {
+      "title": "Latest news &amp; articles directly <br> coming from the blog",
+      "subtitle": "Get Daily Updates "
+    },
+    "posts": [
+      {
+        "title": "Donation is Hope for Poor Childrens in Africa",
+        "url": "/news-details",
+        "date": "20 Jan, 2021",
+        "commentCount": 2,
+        "image": "/blog/news-one-img-1.jpg"
+      },
+      {
+        "title": "How Does Malnutrition Affect Children?",
+        "url": "/news-details",
+        "date": "20 Jan, 2021",
+        "commentCount": 2,
+        "image": "/blog/news-one-right-img-1.jpg"
+      },
+      {
+        "title": "Capitalize on low hanging fruit to identify",
+        "url": "/news-details",
+        "date": "20 Jan, 2021",
+        "commentCount": 2,
+        "image": "/blog/news-one-right-img-2.jpg"
+      },
+      {
+        "title": "Override the digital divide with additional",
+        "url": "/news-details",
+        "date": "20 Jan, 2021",
+        "commentCount": 2,
+        "image": "/blog/news-one-right-img-3.jpg"
+      }
+    ]
+  }
+}
