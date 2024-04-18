@@ -22,14 +22,14 @@
                                     <div class="max-w-md mx-auto bg-white p-4 rounded-lg shadow-md">
                                     <div class="pdf-card">
                                         <h2 class="pdf-title">
-                                            Vidéo
+                                            Communiqué
                                         </h2>
                                         <a :href="item.video" target="_blank"
-                                            class="pdf-download-button">Lire la vidéo</a>
+                                            class="pdf-download-button">Lire le communiqué</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="content-row">
+                            
                                 <!-- <audio controls class="w-full">
                                     <source :src="item.audio" type="audio/mp3">
                                     
@@ -47,7 +47,6 @@
                                     </div>
 
                                 </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -173,7 +172,7 @@ export default {
 }
 
 .content-item {
-    width: calc(25% - 10px);
+    
     /* Adjust width as needed */
     margin-bottom: 10px;
 }
