@@ -22,7 +22,7 @@
     
     head(){
       return {
-        title: "PFC BENIN | Documents"
+        title: "CMA BENIN| Documents"
       }
     }
   }

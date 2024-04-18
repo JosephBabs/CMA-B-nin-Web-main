@@ -14,7 +14,7 @@ export default {
     
     head(){
       return {
-        title: "PFC BENIN | Médiatèque"
+        title: "CMA BENIN| Médiatèque"
       }
     }
   }

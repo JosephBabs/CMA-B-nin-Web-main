@@ -16,7 +16,7 @@
     components: {communiques_display},
     head(){
       return {
-        title: "PFC BENIN | Communiqués"
+        title: "CMA BENIN| Communiqués"
       }
     }
   }

@@ -26,7 +26,7 @@ export default {
     
     head(){
       return {
-        title: "PFC BENIN | Présentation"
+        title: "CMA BENIN| Présentation"
       }
     }
   }
