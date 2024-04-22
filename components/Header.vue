@@ -56,9 +56,11 @@
                   <nuxt-link :to="item.url">{{ item.name }}</nuxt-link>
                   <ul class="sub-menu" v-if="undefined !== item.subItems">
                     <li v-for="subitem in item.subItems" :key="subitem.name">
-                      <nuxt-link :to="subitem.url">{{
+                      <!-- <nuxt-link :to="subitem.url"></nuxt-link> -->
+                      
+                      <a :href="subitem.url">{{
                         subitem.name
-                      }}</nuxt-link>
+                      }}</a>
                       <ul
                         class="sub-menu"
                         v-if="undefined !== subitem.subItems"
@@ -67,9 +69,12 @@
                           v-for="subitem in subitem.subItems"
                           :key="subitem.name"
                         >
-                          <nuxt-link :to="subitem.url">{{
+                          <!-- <nuxt-link :to="subitem.url">{{
                             subitem.name
-                          }}</nuxt-link>
+                          }}</nuxt-link> -->
+                          <a :href="subitem.url">{{
+                        subitem.name
+                      }}</a>
                         </li>
                       </ul>
                     </li>
