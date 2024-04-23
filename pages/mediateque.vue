@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <PageHeader pageTitle="Galerie / Video" pageName="Mediatèque" />
+    <PageHeader pageTitle="Communiqués" pageName="Communiqués" />
     <GalleryGrid />
     <Footer />
     <SearchPopup />
@@ -14,7 +14,7 @@ export default {
     
     head(){
       return {
-        title: "CMA BENIN| Médiatèque"
+        title: "CMA BENIN| Communiqués"
       }
     }
   }

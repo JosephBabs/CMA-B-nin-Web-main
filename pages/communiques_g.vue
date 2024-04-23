@@ -4,7 +4,7 @@
       <PageHeader pageTitle="Communiqués" pageName="Communiqués" />
       <br>
       <br>
-      <communiques_display></communiques_display>
+      <communiques_display></communiques_display> 
       <Footer />
       <MobileDrawer />
     </div>
