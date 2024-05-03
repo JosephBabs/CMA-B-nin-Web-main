@@ -52,6 +52,9 @@ export default {
         src: "//unpkg.com/accordion-js@3.1.1/dist/accordion.min.js",
         body: true,
       },
+      { src: "/assets/js/jquery.min.js", body: true },
+      { src: "/assets/js/jquery.validate.min.js", body: true },
+      { src: "/assets/js/jquery.ajaxchimp.min.js", body: true },
     ],
     loading: {
       color: "#0171b0",
