@@ -10,7 +10,7 @@
 
     <!-- <GalleryCarousel /> -->
     <!-- <VideoOne /> -->
-    <!-- <NewsHome /> -->
+    <!-- <NewsHome /> --> 
     
     <fourfam />
     <CallToActionTwo className="" />

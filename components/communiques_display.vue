@@ -24,8 +24,6 @@
                                         <h2 class="pdf-title">
                                             Communiqué
                                         </h2>
-                                        <a :href="item.video" target="_blank"
-                                            class="pdf-download-button">Lire le communiqué</a>
                                     </div>
                                 </div>
                             </div>

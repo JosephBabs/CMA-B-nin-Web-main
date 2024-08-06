@@ -48,7 +48,8 @@ export default {
       type: String,
     },
     commentCount: {
-      type: String,
+      type: Number,
+    
     },
     thumbnail: {
       type: String,

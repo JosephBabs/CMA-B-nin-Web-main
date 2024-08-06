@@ -6,7 +6,10 @@
         title="Actualités"
         subTitle="CMA-Bénin"
       />
+      
       <div class="row">
+        <NewsCardCustom/>
+        <NewsCardResult/>
         <div v-for="card in news" :key="card.index" class="col-xl-4 col-lg-4">
           <u-animate-container>
             <u-animate
@@ -38,10 +41,14 @@
 <script>
 import { UAnimateContainer, UAnimate } from "vue-wow";
 import NewsCard from "~/components/NewsCard";
+import NewsCardCustom from "~/components/NewsCardCustom";
+import NewsCardResult from "~/components/NewsCardResult";
 import data from "~/data/data.json";
 export default {
   components: {
     NewsCard,
+    NewsCardCustom,
+    NewsCardResult,
     UAnimateContainer,
     UAnimate,
   },
